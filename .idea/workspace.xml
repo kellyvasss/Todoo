@@ -4,17 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ffc1862b-914b-40c0-a7d9-2543fbe3b19c" name="Changes" comment="">
+    <list default="true" id="ffc1862b-914b-40c0-a7d9-2543fbe3b19c" name="Changes" comment="-">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/database/Mongo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/database/Mongo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/menu/Menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/menu/Menu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/todo/Necessarys.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/todo/Necessarys.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/todo/Todo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/todo/Todo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/utils/Builder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/utils/Builder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/utils/Prints.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/utils/Prints.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/utils/Scan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/utils/Scan.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +53,15 @@
     "project.structure.side.proportion": "0.15172414"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="todo" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.TodoTest.testToDoc">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.Main" />
       <module name="Todoo" />
@@ -76,8 +75,42 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TodoTest.testFromDoc" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Todoo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="todo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="todo" />
+      <option name="MAIN_CLASS_NAME" value="todo.TodoTest" />
+      <option name="METHOD_NAME" value="testFromDoc" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TodoTest.testToDoc" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Todoo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="todo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="todo" />
+      <option name="MAIN_CLASS_NAME" value="todo.TodoTest" />
+      <option name="METHOD_NAME" value="testToDoc" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TodoTest.testToDoc" />
+        <item itemvalue="JUnit.TodoTest.testFromDoc" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -91,6 +124,17 @@
       <option name="presentableId" value="Default" />
       <updated>1687812365469</updated>
     </task>
+    <task id="LOCAL−00001" summary="-">
+      <created>1687818400687</created>
+      <option name="number" value="LOCAL−00001" />
+      <option name="presentableId" value="LOCAL−00001" />
+      <updated>1687818400687</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="-" />
+    <option name="LAST_COMMIT_MESSAGE" value="-" />
   </component>
 </project>
